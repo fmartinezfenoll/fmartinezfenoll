@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=fmartinezfenoll&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fmartinezfenoll&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fmartinezfenoll&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<img src="https://media.tenor.com/kSiC-0wGr4kAAAAC/monkey-technology.gif"/>
+<img src="[https://media.tenor.com/kSiC-0wGr4kAAAAC/monkey-technology.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_szygoUu1nTgRi31IwUE0DlzV8fIEm50oktQkDsU&s)" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
